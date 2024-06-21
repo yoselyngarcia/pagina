@@ -1,0 +1,22 @@
+.gallery-container {
+    max-width: 270px;
+    margin: auto;
+    overflow: hidden;
+    width: 550px ;
+    background-color: #009929 ;
+}
+.gallery-carrousel {
+    display: flex;
+    transition: transform 0.4s ease;
+}
+.gallery-carousel {
+    max-width: 100%;
+    padding-top: 30px;
+    height: auto;
+}
+#div{
+    background-color: #3bc953;
+    width: auto;
+    height: 550px;
+    margin: 0px;
+}

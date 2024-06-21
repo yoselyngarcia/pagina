@@ -1,0 +1,6 @@
+.container {
+    width: 100%; /* Ancho del contenedor */
+    margin: 0 auto; /* Centra el contenedor horizontalmente */
+    border: 2px solid #000; /* Define el borde del contenedor */
+    padding: 20px; /* Espacio dentro del borde */
+}
